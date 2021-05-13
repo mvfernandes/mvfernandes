@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://www.linkedin.com/in/vinícius-santos-94769a192"> ![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin)</a>
+<a href="https://www.linkedin.com/in/marcosviniciusdev"> ![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin)</a>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mvfernandes&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvfernandes&layout=compact&theme=graywhite"/> </p>
