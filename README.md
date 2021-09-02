@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mvfernandes&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvfernandes&layout=compact&theme=graywhite"/> </p>
 
-<a href="https://wakatime.com/@mvfernandes" target="_blank">
+<a href="https://wakatime.com/@mvfernandes" target="blank">
   <img src="https://wakatime.com/static/img/wakatime-light.svg" width="25"/>
 </a>
 
