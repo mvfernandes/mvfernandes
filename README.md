@@ -6,6 +6,9 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mvfernandes&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvfernandes&layout=compact&theme=graywhite"/> </p>
 
+<a href="https://wakatime.com/@mvfernandes">
+  <img src="https://wakatime.com/static/img/wakatime-light.svg" width="25"/>
+</a>
 
 <!--
 **mvfernandes/mvfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
